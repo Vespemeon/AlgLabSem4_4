@@ -1,0 +1,6 @@
+SaintPetersburg;Moscow;10;20
+Moscow;Saratov;40;35
+SaintPetersburg;Saratov;14;10
+Kostroma;Saratov;13;8
+Kostroma;SaintPetersburg;N/A;20
+RostovOnDon;Moscow;N/A;15
